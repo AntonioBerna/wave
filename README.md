@@ -39,3 +39,7 @@ For example with the default parameters you get the following output:
 <p align="center">
   <img src="Wave/images/2.png" width="640.5" height="538.5"/>  
 </p>
+
+Wait a second ... what are those horizontal blue lines?
+
+Exact! They are Sliders that will allow you to change the parameters of your signal "live". Is not it fantastic?
