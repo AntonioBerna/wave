@@ -34,7 +34,7 @@ Hey, if you're wondering my name in art is [Clever Code](https://www.youtube.com
 
 Fantastic! Now you can have fun changing all the characteristic parameters of a sinusoidal signal to see what happens!
 
-For example with the default parameters you get the following output:
+For example, by clicking on the "Plot Signal Wave" button, leaving the default parameters, the following output is obtained:
 
 <p align="center">
   <img src="Wave/images/2.png" width="640.5" height="538.5"/>  
