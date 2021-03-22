@@ -43,3 +43,9 @@ For example with the default parameters you get the following output:
 Wait a second ... what are those horizontal blue lines?
 
 Exact! They are Sliders that will allow you to change the parameters of your signal "live". Is not it fantastic?
+
+# Per maggiori informazioni
+
+Youtube: [Clever Code](https://www.youtube.com/c/CleverCode)
+
+Created By Antonio Bernardini Copyright© 2021
