@@ -34,4 +34,10 @@ to display the following window on your desktop:
 
 Hey, if you're wondering my name in art is [Clever Code](https://www.youtube.com/c/CleverCode) that's why you see it in the title of the window!
 
+Fantastic! Now you can have fun changing all the characteristic parameters of a sinusoidal signal to see what happens!
 
+For example with the default parameters you get the following output:
+
+<p align="center">
+  <img src="Wave/images/2.png" width="640.5" height="538.5"/>  
+</p>
