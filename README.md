@@ -1,6 +1,6 @@
 # How to use my software?
 
-First of all we need to create a virtual environment for the Python programming language, using this command on the terminal:
+After creating your workbook you will need to create a virtual environment for the Python programming language, using this command on the terminal:
 
 ```
 python3 venv venv
