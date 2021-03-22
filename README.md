@@ -32,4 +32,6 @@ to display the following window on your desktop:
   <img src="Wave/images/1.png" width="402" height="225"/>  
 </p>
 
-Hey, if you're wondering my name in art is Clever Code that's why you see it in the title of the window!
+Hey, if you're wondering my name in art is [Clever Code](https://www.youtube.com/c/CleverCode) that's why you see it in the title of the window!
+
+
