@@ -10,7 +10,8 @@ class SplashScreen(QSplashScreen):
     WIDTH = 700
 
     def __init__(self):
-        super().__init__(QPixmap("imgs/splash.jpg").scaledToWidth(self.WIDTH))
+        img_path = "imgs/app/splash.jpg"
+        super().__init__(QPixmap(img_path).scaledToWidth(self.WIDTH))
         self.setMask(self.pixmap().mask())
 
 class PlotApp(QMainWindow):
@@ -29,16 +30,19 @@ class PlotApp(QMainWindow):
 
         self.amplitude_label = QLabel("Amplitude:")
         self.amplitude_input = QLineEdit()
+        self.amplitude_input.setText("1.0")
         self.layout.addWidget(self.amplitude_label)
         self.layout.addWidget(self.amplitude_input)
 
         self.frequency_label = QLabel("Frequency:")
         self.frequency_input = QLineEdit()
+        self.frequency_input.setText("1.0")
         self.layout.addWidget(self.frequency_label)
         self.layout.addWidget(self.frequency_input)
 
         self.phase_label = QLabel("Phase:")
         self.phase_input = QLineEdit()
+        self.phase_input.setText("0.0")
         self.layout.addWidget(self.phase_label)
         self.layout.addWidget(self.phase_input)
 

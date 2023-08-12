@@ -1,6 +1,6 @@
 PYC=pyinstaller
 SRCS=app.py
-ICON=imgs/wave.icns
+ICON=./imgs/app/wave.icns
 TARGET=wave.app
 PYFLAGS=--onefile -n $(TARGET) -p $(VIRTUAL_ENV) --icon $(ICON) --clean
 
